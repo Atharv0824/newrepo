@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Future Forge - Student Counselling Web App
 
 A modern, responsive web application for student counselling and college recommendations.
@@ -164,3 +165,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [React](https://reactjs.org/) for the component-based UI library
 - [Vite](https://vitejs.dev/) for the fast build tool
 - [Heroicons](https://heroicons.com/) for the icon set
+=======
+# newrepo
+hi
+>>>>>>> 12661819d636186ce39fb71fbfd9c3a1dc0caa33
